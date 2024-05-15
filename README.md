@@ -48,4 +48,4 @@ Obs: nosso ambiente é feito no vscode, então o baixe antes de continuar lendo.
         
         python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 		
-> O tensorflow é uma biblioteca que algumas vezes cria diversos problemas de ambiente, ela deve ser instalada em uma venv. Se seu computador não possuir gpu não faça essa instalação.
+> O tensorflow é uma biblioteca que algumas vezes cria diversos problemas de ambiente, ela deve ser instalada em uma venv. Se seu computador não possuir gpu não faça essa instalação.    
